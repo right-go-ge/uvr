@@ -1,8 +1,8 @@
 {
   "应用信息": {
     "name": "一人团队 (AI全能助手)",
-    "version": "1.0.98",
-    "downloadUrl": "http://778899.com/123.exe",
+    "version": "1.1.1",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/right-go-ge/uvr@latest/app-config.json",
     "tagline": "一个人，也能高效完成团队级工作",
     "summary": "专业级AI工具集合，让创作者一人即可完成团队工作流程",
     "description": "一人团队是专为独立创作者、自由职业者和小型工作室设计的AI全能助手平台。通过整合多种前沿AI技术，帮助您高效处理文本、图像、音频和视频内容，实现一人操作、团队级输出——无论您是内容创作者、设计师、营销人员还是项目管理者，都能显著提升工作效率。"
